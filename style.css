@@ -48,7 +48,7 @@ li {
   padding: 0 10px;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 800px) {
   #container {
     flex-direction: column;
     margin: 0;
